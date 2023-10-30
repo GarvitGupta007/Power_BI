@@ -1,1 +1,1 @@
-# Power_BI
+This repository contains Dashboards created in PowerBI application
